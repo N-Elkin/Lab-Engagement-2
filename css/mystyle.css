@@ -46,11 +46,6 @@ header img {
     padding: 10px;
 }
 
-.img{
-    height: 400px;
-    width: 400px;
-}
-
 #supermoon{
     display: flex;
     align-items: center;
